@@ -206,16 +206,16 @@ margin:0 0 10px;
 box-sizing:border-box;
 background:#242c43;
 padding:10px;
-margin:0 0 10px 0;
+margin:0 0 20px 0;
 border-radius:10px;
 }
-.download-grid table{
+.download-data table{
 box-sizing:border-box;
 padding:0;
 margin:0;
 width:100%;
 }
-.download-grid table tr td{
+.download-data table tr td{
 box-sizing:border-box;
 padding:10px;
 margin:0;
