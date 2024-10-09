@@ -195,19 +195,19 @@ box-sizing:border-box;
 padding:10px;
 margin:0;
 }
-.download-grid h3{
-color:#ff8c00;
-font-size:18px;
-font-weight:700;
-padding:0;
-margin:0 0 10px;
-}
 .download-data{
 box-sizing:border-box;
 background:#242c43;
 padding:10px;
 margin:0 0 20px 0;
 border-radius:10px;
+}
+.download-data h3{
+color:#ff8c00;
+font-size:18px;
+font-weight:700;
+padding:0;
+margin:0 0 10px;
 }
 .download-data table{
 box-sizing:border-box;
@@ -227,6 +227,13 @@ background:#242c43;
 padding:10px;
 margin:0;
 border-radius:10px;
+}
+.download-link h3{
+color:#ffffff;
+font-size:18px;
+font-weight:700;
+padding:0;
+margin:0 0 10px;
 }
 .download-link ul{
 box-sizing:border-box;
