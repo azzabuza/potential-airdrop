@@ -228,7 +228,7 @@ padding:10px;
 margin:0;
 border-radius:10px;
 }
-.download-grid ul{
+.download-link ul{
 box-sizing:border-box;
 display:flex;
 justify-content:center;
@@ -237,14 +237,14 @@ list-style:none;
 padding:0;
 margin:0;
 }
-.download-grid li{
+.download-link li{
 width:50%;
 padding:10px;
 margin:0;
 box-sizing:border-box;
 justify-content:center;
 }
-.download-grid li a{
+.download-link li a{
 box-sizing:border-box;
 display:inline-block;
 background:#ff8c00;
