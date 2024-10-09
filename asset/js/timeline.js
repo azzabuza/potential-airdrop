@@ -1,5 +1,5 @@
 function fetchAndDisplayTimeline() {
-fetch('timeline.json')
+fetch('asset/data/timeline.json')
 .then(response => response.json())
 .then(data => {
 const timelineBox = document.getElementById('timeline-box');
