@@ -11,7 +11,7 @@ timelineHTML += `
 <h3>${item.title}</h3>
 <p style="margin:0;font-weight:500;color:#2e8b57;">${item.developer}</p>
 <p style="font-size:13px;">${item.platform}</p>
-<a href="${item.link}" title="${item.title}">JOIN AIRDROP</a>
+<a href="${item.link}" title="${item.title}">MAINKAN</a>
 </div>
 `;
 });
