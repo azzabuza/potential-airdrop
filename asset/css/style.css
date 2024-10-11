@@ -146,8 +146,9 @@ font-weight: 400;
 margin:0 0 40px 0;
 }
 .timeline-tile a{
+BACKGROUND:#1E90FF;
 font-size:13px;
-color:#1E90FF;
+color:#FFFFFF;
 font-weight:600;
 position:absolute;
 bottom:10px;
