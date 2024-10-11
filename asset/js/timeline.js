@@ -12,7 +12,6 @@ timelineHTML += `
 <p style="margin:0;font-weight:500;color:#2e8b57;">${item.developer}</p>
 <p style="font-size:13px;">${item.platform}</p>
 <a href="${item.link}" title="${item.title}">JOIN AIRDROP</a>
-<span>${item.date}</span>
 </div>
 `;
 });
