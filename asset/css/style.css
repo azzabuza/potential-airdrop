@@ -35,12 +35,12 @@ background:#000000;
 }
 ::-webkit-scrollbar{
 width:5px;
-background:#ff8c00;
+background:#242c43;
 outline:none;
 border:none;
 }
 ::-webkit-scrollbar-track{
-background:#ff8c00;
+background:#242c43;
 }
 ::-webkit-scrollbar-thumb{
 width:5px;
